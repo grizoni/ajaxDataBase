@@ -62,4 +62,6 @@
     } else {
         echo "mysql_query error - cound't search signup table";
     }
+
+    // created by Everton
 ?>
